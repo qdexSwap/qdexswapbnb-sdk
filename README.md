@@ -1,17 +1,17 @@
-# QdexswapETH SDK
+# # qdexswapbnb-sdk
 
 
 
 First clone the repository:
 
 ```sh
-git clone https://github.com/qdexSwap/qdexswapeth-sdk.git
+git clone https://github.com/qdexSwap/qdexswapbnb-sdk.git
 ```
 
 Move into the uniswap-sdk working directory
 
 ```sh
-cd qdexswapeth-sdk/
+cd qdexswapbnb-sdk/
 ```
 
 Install dependencies
@@ -47,4 +47,7 @@ Ran all test suites.
 ```
 
 
-# qdexswapbnb-sdk
+
+
+
+
