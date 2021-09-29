@@ -1,6 +1,6 @@
 {
-  "name": "@qdexswapbnb/sdk",
-  "version": "1.0.0",
+  "name": "@qdexswap/bnbsdk",
+  "version": "1.0.7",
   "description": "🛠 An SDK for building applications on top of qdexswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -9,7 +9,7 @@
   ],
   "repository": "https://github.com/qdexSwap/qdexswapbnb-sdk.git",
   "keywords": [
-    "qdexswapeth",
+    "qdexswapbnb",
     "ethereum"
   ],
   "scripts": {
